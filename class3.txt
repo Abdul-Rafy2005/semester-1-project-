@@ -1,0 +1,3 @@
+STUDENT NAME 	 CLASS 	 ROLL NUMBER
+abdul bhai 	3		155
+asad baloch 	3		2
