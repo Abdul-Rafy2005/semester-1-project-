@@ -1,5 +1,0 @@
-STUDENT NAME 	 CLASS 	 ROLL NUMBER
-Muhammad Taha 	1		34
-Saleem khan 	1		23
-saleem khan 	1		56
-Muhammad Taha 	1		23
