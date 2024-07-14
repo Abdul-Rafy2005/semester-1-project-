@@ -1,7 +1,0 @@
-STUDENT NAME 	 CLASS 	 ROLL NUMBER
-abcd asdf 	5		1
-STUDENT NAME 	 CLASS 	 ROLL NUMBER
-muhammad aslam 	5		567
-STUDENT NAME 	 CLASS 	 ROLL NUMBER
-rizwan baloch 	5		987
-hussnain khan 	5		98765
