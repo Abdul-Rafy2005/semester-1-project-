@@ -1,2 +1,3 @@
+Name   class  Roll_number
 abdul wasy 	2		111
 muhammad rizwwan 	2		125
